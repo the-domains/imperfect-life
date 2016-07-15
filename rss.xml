@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[Imperfect Life]]></title>
         <description><![CDATA[Imperfect Life]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/imperfect-life/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 15 Jul 2016 11:28:25 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 15 Jul 2016 11:28:36 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/imperfect-life/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Crabby]]></title>
+            <description><![CDATA[<article><h1>Crabby</h1><p>Here’s a crap</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/9bb78e92-7100-4592-9848-dc22e0ed1a9f.jpg"></article>]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/9bb78e92-7100-4592-9848-dc22e0ed1a9f.jpg</link>
+            <guid isPermaLink="false">aef99f77-745c-4d75-8e2c-5b735edb4843</guid>
+            <pubDate>Fri, 15 Jul 2016 11:28:34 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Environment]]></title>
             <description><![CDATA[<article><h1>Environment</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/9b90df90-bb73-4dd7-b87c-cc5a1c0cde3f.jpg"></article>]]></description>
